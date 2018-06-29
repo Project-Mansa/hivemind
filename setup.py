@@ -18,6 +18,7 @@ setup(
         'pytest',
         'pytest-cov',
         'pytest-pylint',
+        'pytest-asyncio',
         'pytest-console-scripts',
         'git-pylint-commit-hook',
         'pep8',
